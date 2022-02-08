@@ -1,0 +1,54 @@
+div.data{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: lightskyblue;
+}
+.data a {
+font-family: sans-serif;
+font-weight: 400;
+color:black;
+text-transform: uppercase;
+padding-top: 10px;
+padding-bottom: 10px;
+ padding-left: 15px;
+ padding-right: 15px;
+}
+
+a:hover{
+    background-color: gainsboro;
+}
+#daftar-siswa{
+    background-color: gainsboro;
+}
+p:first-child {
+    background-color: #60A5FA;
+}
+p:last-child {
+    background-color: #F87171;
+}
+p:hover {
+    background-color: #E5E7EB;
+}
+div.siswa{
+   color: #F3F4F6;
+   text-transform: uppercase;
+   font-weight:400;
+   font-family: sans-serif;
+   background-color: gainsboro;
+   margin: 0px;
+   padding-top: 10px;
+   padding-bottom: 10px;
+   padding-left: 15px;
+   padding-right: 15px;
+   }
+
+.siswa p:first-child {
+    background-color: gainsboro;
+}
+.siswa p:last-child {
+    background: gainsboro;
+}
+
+.siswa p:hover {
+    background-color: #111827;
+}
